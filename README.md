@@ -15,3 +15,7 @@ Sistem ini adalah aplikasi web untuk Bengkel Fatah Jaya Motor di Cilincing, Jaka
 **Akses** 
 1. Admin : Username (admin), Password (123)
 2. Owner : Username (owner), Password (123)
+
+Tampilan :
+![image](https://github.com/user-attachments/assets/dcdebf51-8f82-4246-8a4e-8a7de608bae6)
+
