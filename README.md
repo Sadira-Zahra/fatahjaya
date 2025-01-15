@@ -2,6 +2,7 @@
  Sistem Manajemen Stok Sparepart dan Penentuan Supplier Terbaik
 
 **Perspektif Sistem** 
+
 Sistem ini adalah aplikasi web untuk Bengkel Fatah Jaya Motor di Cilincing, Jakarta Utara, yang membantu admin dan pemilik bengkel mengelola inventori dan memilih supplier terbaik. Sistem ini kompatibel dengan perangkat desktop modern dan berfungsi untuk :
 - Pengelolaan Inventori: Mencatat transaksi stok secara real-time dan memberikan notifikasi stok minimum.
 - Rekomendasi Supplier: Menganalisis performa supplier berdasarkan harga, kualitas, kecepatan pengiriman, dan pelayanan.
